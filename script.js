@@ -63,7 +63,7 @@ const playlists = [
         image: "playlist1.jpg",
         songs: [
             { title: "Abhi Kuch Dino Se", artist: "Mohit Chauchan ", image: "Hindi/Abhi_kuch_dino_se.jpg", src: "Hindi/Abhi Kuch Dino Se.mp3" },
-            { title: "Kaise Ab kahein", artist: "Aasa singh , gaurav chatterji", image: "Hindi/kaise_Ab_Kahein.jpg", src: "Hindi/Kaise Ab Kahein feat.Hrishi Giridhar Pratik Gangavane From Gutar Gu.mp3" },
+            { title: "Kaise Ab kahein", artist: "Aasa singh , gaurav chatterji", image: "Hindi/Kaise_Ab_Kahein.jpg", src: "Hindi/Kaise Ab Kahein feat.Hrishi Giridhar Pratik Gangavane From Gutar Gu.mp3" },
             { title: "AAnkhon Se Batana", artist: "Dikshant", image: "Hindi/Aankhon_Se_Batana.jpg", src: "Hindi/Aankhon Se Batana.mp3" },
             { title: "Sawaar Loon", artist: "Amit Trivedi, Amitabh Bhattacharya ", image: "Hindi/Sawaar_Loon.jpg", src: "Hindi/SAWAAR LOON.mp3" },
             { title: "Main Hoon Na", artist: "Sonu Nigam, Shreya Ghoshal", image: "Hindi/Main_Hoon_Na.jpeg", src: "Hindi/MAIN HOON NA.mp3" },
